@@ -1,6 +1,6 @@
-#Student Details
-**REG NO: SCT211-0348/2024**
-**Name:Amoit Ivynelisa Atieng**
+# Student Details
+1. **REG NO: SCT211-0348/2024**
+2. **Name:Amoit Ivynelisa Atieng**
 
 # Programming-Languages
  Data structure implementations (linked list + array) across multiple languages: C, Java, Pascal, Python.
